@@ -1,0 +1,6 @@
+{
+  "name": "AURA Verify - Industrial AI Anomaly Platform",
+  "description": "Industrial multivariate anomaly detection & decision support platform for smart manufacturing verification, powered by unsupervised ML, XAI, and Azure IoT architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
